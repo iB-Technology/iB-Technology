@@ -1,7 +1,7 @@
 
 
 ## About Me
-I am a researcher and developer in the field of artificial intelligence, with a focus on machine learning and deep learning. I have extensive experience working with popular machine learning frameworks such as TensorFlow, Keras, and scikit-learn. In addition, I am also a proficient Reactjs and Django developer.
+I am a researcher and developer in the field of artificial intelligence, with a focus on machine learning and deep learning. I have extensive experience working with popular machine learning frameworks such as ![TensorFlow Icon](https://img.shields.io/badge/-TensorFlow-orange), ![Keras Icon](https://img.shields.io/badge/-Keras-red), and ![scikit-learn Icon](https://img.shields.io/badge/-scikit--learn-orange). In addition, I am also a proficient ![React Icon](https://img.shields.io/badge/-React-blue) and ![Django Icon](https://img.shields.io/badge/-Django-green) developer.
 
 
 <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
