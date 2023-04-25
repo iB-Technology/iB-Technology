@@ -20,7 +20,7 @@ I am a researcher and developer in the field of artificial intelligence, with a 
 
 ## Statistics
 
-| <a href="https://github.com/iB-Technology/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iB-Technology&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/iB-Technology/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iB-Technology&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/iB-Technology/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iB-Technology&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/iB-Technology/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iB-Technology&count_private=true&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
